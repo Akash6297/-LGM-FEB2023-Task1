@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background-color: mediumseagreen;
-    color: white;
+    background-color: rgb(255, 225, 73);
+    color: rgb(255, 37, 13);
     font-family: 'Itim', cursive;
     min-height: 100vh;
 }
@@ -97,7 +97,7 @@ form button:hover{
     padding: 0rem 0.5rem;
 }
 .todo:hover{
-    color: white;
+    color: rgb(255, 255, 255);
     background-color: black;
 }
 .fa-trash, 
